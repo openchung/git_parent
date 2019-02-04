@@ -1,3 +1,0 @@
-[submodule "mymodule"]
-	path = mymodule
-	url = https://github.com/openchung/git_child.git
